@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> teste </title>
+        <style>    
+        h1 {font-family: calibri, 50, sans-serif}
+      </style> <!-- estilo da fonte do cabeçalho h1 -->
+        <body> <!-- é o que vai ficar exposto na pagina -->
+            <h1><Strong>testando double pasta</Strong></h1>
+            <p><strong>ultilizando funções Html</strong><!-- negrito --></p> <!-- paragrafo -->
+            <h2> cabeçalho "h2"</h2>
+            <a href="https://chat.openai.com">entrar no chat gptzin</a> <!-- href é o link referencia -->
+            <br>
+            <img src= "index.html", src="2023-04-13.png" alt="foto do spotify">
+            <ul><!--lista com *-->
+                <li>First item</li>
+                <li>Second item</li>
+                <li>Third item</li>
+            </ul>
+            <ol><!--lista numerada-->
+                <li>First item</li>
+                <li>Second item</li>
+                <li>Third item</li>
+            </ol>
+            <source>
+        </head>
+</html>
